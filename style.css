@@ -1,0 +1,45 @@
+body {
+    background-color: #1e202b !important;
+}
+
+.navbar {
+    background-color: #1e202b;
+    
+}
+
+.nav-link .active {
+    background-color: aliceblue !important;
+}
+
+.Home {
+    /* position: relative; */
+    background-image: url(images/imgs/bg.jpg);
+    width: 100%;
+}
+
+.inp {
+    background-color: #1e202b;
+}
+.btnn{
+    z-index: 2000 !important;
+}
+
+.image1{
+    background-color: #323544;
+}
+.paragraph{
+    font-size:xx-large;
+}
+
+.image2{
+    background-color: #262936;
+}
+
+.final{
+    background-color: #323544;
+}
+
+
+.Break{
+    background-color: #323544;
+}
